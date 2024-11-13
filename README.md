@@ -1,11 +1,12 @@
 ![BullAndBearAI](https://github.com/user-attachments/assets/b89ce239-303f-41f8-aaff-867bbe978a50)
-**Autonomous BTC Sentiment AI**
+# **Autonomous BTC Sentiment AI**
+
 A simple, experimental AI that autonomously tweets sentiment on Bitcoin (BTC) based on 4-hour candlestick data.
 
-🚀 Overview
+# **🚀 Overview**
 This AI-powered bot analyzes BTC's 4-hour candle data and tweets a sentiment update. It identifies bullish or bearish sentiment based on recent price movements, providing real-time, data-driven insights. Currently in the experimental phase, this project is under active development as a test for potential future functionality.
 
-⚙️ Features
+# ⚙️ Features
 🧠 Automated Sentiment Analysis: Leverages 4-hour BTC candlestick data to gauge positive or negative sentiment.
 🐦 Autonomous Twitter Posting: Posts tweets reflecting the latest BTC market sentiment in real-time.
 📈 Configurable Thresholds: Define custom sentiment thresholds for bullish or bearish tweets.
