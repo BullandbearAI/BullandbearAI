@@ -17,14 +17,10 @@ Twitter API Access: You’ll need API keys from Twitter to post updates from the
 Environment Setup
 Clone this repository:
 
-bash
-Code kopieren
 git clone https://github.com/your-repo/btc-sentiment-ai.git
 cd btc-sentiment-ai
 Install required dependencies:
 
-bash
-Code kopieren
 pip install -r requirements.txt
 Set up the environment variables:
 
@@ -32,8 +28,6 @@ Copy .env.example to .env and fill in with your Twitter API credentials and any 
 Running the Bot
 To start the bot, use the following command:
 
-bash
-Code kopieren
 python main.py
 The bot will begin monitoring BTC’s 4-hour candlestick data and post tweets based on the sentiment thresholds defined in the configuration.
 
