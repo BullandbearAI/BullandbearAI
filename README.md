@@ -8,10 +8,15 @@ This AI-powered bot analyzes BTC's 4-hour candle data and tweets a sentiment upd
 
 # ⚙️ Features
 🧠 Automated Sentiment Analysis: Leverages 4-hour BTC candlestick data to gauge positive or negative sentiment.
+
 🐦 Autonomous Twitter Posting: Posts tweets reflecting the latest BTC market sentiment in real-time.
+
 📈 Configurable Thresholds: Define custom sentiment thresholds for bullish or bearish tweets.
+
 🔄 Continuous Monitoring: Analyzes BTC data on a recurring 4-hour basis for consistent, up-to-date feedback.
+
 🛠️ Getting Started
+
 Prerequisites
 Python: Version 3.7+ is required.
 Twitter API Access: You’ll need API keys from Twitter to post updates from the bot.
