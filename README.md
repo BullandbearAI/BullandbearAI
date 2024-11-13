@@ -41,19 +41,23 @@ The bot will begin monitoring BTC’s 4-hour candlestick data and post tweets ba
 Edit the config.yaml file to adjust sentiment thresholds, tweet frequency, and other settings:
 
 yaml
-Code kopieren
 # Sample configuration
 SENTIMENT_THRESHOLD_POSITIVE: 2.0
 SENTIMENT_THRESHOLD_NEGATIVE: -2.0
 TWEET_INTERVAL_HOURS: 4
+
 📌 Current Limitations
+
 Experimental Project: This is a new and evolving test project, currently in a proof-of-concept stage.
 Market Sentiment Only: The bot uses simple metrics based on BTC's 4-hour candlestick data and does not consider other market factors.
+
 📄 Future Plans
 This project aims to explore various improvements, including:
 
 Incorporating advanced machine learning models for deeper sentiment analysis.
 Extending support to additional cryptocurrencies and timeframes.
 Enabling multi-platform posting to expand reach.
+
 🤝 Contributions
+
 As this is an experimental project, contributions are welcome! Please open an issue or submit a pull request with improvements or feedback.
