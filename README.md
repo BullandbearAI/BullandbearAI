@@ -15,36 +15,10 @@ This AI-powered bot analyzes BTC's 4-hour candle data and tweets a sentiment upd
 
 🔄 Continuous Monitoring: Analyzes BTC data on a recurring 4-hour basis for consistent, up-to-date feedback.
 
-🛠️ Getting Started
-
-Prerequisites
-Python: Version 3.7+ is required.
-Twitter API Access: You’ll need API keys from Twitter to post updates from the bot.
-Environment Setup
-Clone this repository:
-
-git clone https://github.com/your-repo/btc-sentiment-ai.git
-cd btc-sentiment-ai
-Install required dependencies:
-
-pip install -r requirements.txt
-Set up the environment variables:
-
-Copy .env.example to .env and fill in with your Twitter API credentials and any other relevant settings.
-Running the Bot
-To start the bot, use the following command:
-
-python main.py
-The bot will begin monitoring BTC’s 4-hour candlestick data and post tweets based on the sentiment thresholds defined in the configuration.
-
-⚙️ Configuration
-Edit the config.yaml file to adjust sentiment thresholds, tweet frequency, and other settings:
-
-yaml
 # Sample configuration
 SENTIMENT_THRESHOLD_POSITIVE: 2.0
 SENTIMENT_THRESHOLD_NEGATIVE: -2.0
-TWEET_INTERVAL_HOURS: 4
+TWEET_INTERVAL_HOURS: BASED ON TRAFFIC
 
 📌 Current Limitations
 
