@@ -1,5 +1,5 @@
 ![BullAndBearAI](https://github.com/user-attachments/assets/b89ce239-303f-41f8-aaff-867bbe978a50)
-Autonomous BTC Sentiment AI
+**Autonomous BTC Sentiment AI**
 A simple, experimental AI that autonomously tweets sentiment on Bitcoin (BTC) based on 4-hour candlestick data.
 
 🚀 Overview
